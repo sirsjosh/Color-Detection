@@ -1,6 +1,6 @@
 # Color Detection using Webcam
 
-![Alt Text](url)
+![Alt Text](https://github.com/sirsjosh/Color-Detection/blob/main/cover.jpg)
 
 ## Overview
 
