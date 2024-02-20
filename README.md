@@ -1,4 +1,7 @@
 # Color Detection using Webcam
+
+![Alt Text](url)
+
 ## Overview
 
 This project is a simple color recognition system using OpenCV and Python. The system detects a specific color (in this case, yellow) in a video stream, draws a bounding box around the detected region, and displays the result in real-time.
